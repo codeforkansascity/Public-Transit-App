@@ -2,5 +2,6 @@
 
 * Status: Idea stage, have some contacts
 * Needs: 
-  - [ ] Designers, Developers, person with knowledge of the ATA's API 
-  - [ ] ?
+  - [ ] Designers
+  - [ ] Developers
+  - [ ] Person with knowledge of the ATA's API 
